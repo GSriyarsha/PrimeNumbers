@@ -1,2 +1,2 @@
 # PrimeNumbers
-Optimized code in java
+Optimized code 
